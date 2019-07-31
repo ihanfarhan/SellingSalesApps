@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/tNamaSupplier"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nama Supplier: Sidu" />
+
+    <TextView
+        android:id="@+id/tNamaBarang"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nama Barang: Buku Tulis Sidu" />
+
+    <TextView
+        android:id="@+id/tJumlah"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jumlah: 1500" />
+
+    <TextView
+        android:id="@+id/tWaktu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Waktu: 07-08-2019 10:10" />
+
+</LinearLayout>

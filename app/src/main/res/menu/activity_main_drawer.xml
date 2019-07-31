@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Beranda" />
+    <item
+        android:id="@+id/nav_pembelian"
+        android:icon="@mipmap/boxin"
+        android:title="Pembelian" />
+    <item
+        android:id="@+id/nav_penjualan"
+        android:icon="@mipmap/boxout"
+        android:title="Penjualan" />
+    <item
+        android:id="@+id/nav_barang"
+        android:icon="@mipmap/storage"
+        android:title="Barang" />
+    <item
+        android:id="@+id/nav_kategori_barang"
+        android:icon="@mipmap/tags"
+        android:title="Kategori Barang" />
+    <item
+        android:id="@+id/nav_supplier"
+        android:icon="@mipmap/seller"
+        android:title="Supplier" />
+
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@mipmap/logout"
+        android:title="Keluar" />
+
+</menu>

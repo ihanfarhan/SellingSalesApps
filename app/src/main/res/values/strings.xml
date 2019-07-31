@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Selling Sales Apps</string>
+    <string name="app_name_pembelian">Pembelian</string>
+    <string name="app_name_penjualan">Penjualan</string>
+    <string name="app_name_barang">Barang</string>
+    <string name="app_name_kat_barang">Kategori Barang</string>
+    <string name="app_name_supplier">Supplier</string>
+
+    <string name="app_name_input_pembelian">Input Pembelian</string>
+    <string name="app_name_input_penjualan">Input Penjualan</string>
+    <string name="app_name_input_barang">Input Barang</string>
+    <string name="app_name_input_kat_barang">Input Kategori Barang</string>
+    <string name="app_name_input_supplier">Input Supplier</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+    <string name="slide_1_title">Welcome</string>
+    <string name="slide_1_desc">Aplikasi ini adalah aplikasi penjualan atau Point of Sale (PoS)</string>
+    <string name="slide_2_title">Barang</string>
+    <string name="slide_2_desc">Pada aplikasi anda bisa input, hapus dan edit data barang/produk yang ada</string>
+    <string name="slide_3_title">Transaksi</string>
+    <string name="slide_3_desc">Aplikasi ini juga memiliki fitur untuk mencatat transaksi penjualan barang/produk</string>
+    <string name="slide_4_title">Selamat Bertransaksi</string>
+    <string name="slide_4_desc">Semoga dapat memudahkan usaha anda :-)</string>
+
+</resources>

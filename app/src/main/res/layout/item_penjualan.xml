@@ -1,0 +1,37 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/tNamaBarang"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nama Barang: Buku Tulis Sidu" />
+
+    <TextView
+        android:id="@+id/tJumlah"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jumlah: 1500" />
+
+    <TextView
+        android:id="@+id/tTotal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Total: 25000" />
+
+    <TextView
+        android:id="@+id/tBayar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bayar: 0" />
+
+    <TextView
+        android:id="@+id/tKembali"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kembali: 0" />
+
+</LinearLayout>

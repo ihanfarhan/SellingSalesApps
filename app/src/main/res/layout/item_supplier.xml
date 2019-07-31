@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/tSupplier"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nama Supplier: Sidu" />
+
+    <TextView
+        android:id="@+id/tAlamat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Alamat: Jakarta" />
+
+    <TextView
+        android:id="@+id/tTelp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="No Telepon: 087238299301" />
+
+</LinearLayout>
